@@ -1,6 +1,9 @@
+# Pixiv
 DOMAIN-KEYWORD,pixiv,特定网站
-DOMAIN,app-api.pixiv.net,特定网站
 DOMAIN-SUFFIX,pixiv.net,特定网站
+DOMAIN-SUFFIX,pximg.net
+DOMAIN-SUFFIX,fanbox.cc
 
+# wnacg
 DOMAIN-KEYWORD,wnacg
 DOMAIN-SUFFIX,wnacg.com
