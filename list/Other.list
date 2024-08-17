@@ -8,3 +8,7 @@ DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-KEYWORD,wnacg
 DOMAIN-SUFFIX,wnacg.com
 DOMAIN,v1.wzip.date
+
+# discord
+DOMAIN-KEYWORLD,discord
+DOMAIN-SUFFIX,discord.com
