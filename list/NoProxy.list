@@ -3,10 +3,11 @@ DOMAIN,dash.cloudflare.com
 DOMAIN,platform.dash.cloudflare.com
 DOMAIN-KEYWORD,cloudflare
 DOMAIN,challenges.cloudflare.com
+DOMAIN-SUFFIX,quick-edit-cny.pages.dev
 DOMAIN,quick-edit-cny.pages.dev
-DOMAIN-SUFFIX,getafreenode.com
 DOMAIN-SUFFIX,cloudflare.com
 
 
 #
+DOMAIN-SUFFIX,getafreenode.com
 DOMAIN-SUFFIX,blog.imoe.men
