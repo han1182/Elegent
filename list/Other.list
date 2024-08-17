@@ -11,4 +11,6 @@ DOMAIN,v1.wzip.date
 
 # discord
 DOMAIN-KEYWORD,discord
+DOMAIN-KEYWORD,discordapp
 DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
