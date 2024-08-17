@@ -14,3 +14,7 @@ DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,discordapp
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discord.gg
+
+#Z-Library
+DOMAIN,singlelogin.rs
+DOMAIN,zh.singlelogin.rs
