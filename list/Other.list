@@ -18,4 +18,6 @@ DOMAIN-SUFFIX,discord.gg
 #Z-Library
 DOMAIN,singlelogin.rs
 DOMAIN,zh.singlelogin.rs
+DOMAIN,zh.z-library.rs
+DOMAIN,z-library.rs
 DOMAIN-KEYWORD,z-library
