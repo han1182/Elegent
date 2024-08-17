@@ -7,8 +7,10 @@ DOMAIN-SUFFIX,quick-edit-cny.pages.dev
 DOMAIN,quick-edit-cny.pages.dev
 DOMAIN-SUFFIX,cloudflare.com
 
+#wnacg
+DOMAIN,v1.wzip.download
+DOMAIN,v1.wzip.date
 
 #
 DOMAIN-SUFFIX,getafreenode.com
 DOMAIN-SUFFIX,blog.imoe.men
-DOMAIN,v1.wzip.download
