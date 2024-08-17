@@ -1,6 +1,7 @@
 # CloudFlare
 DOMAIN,dash.cloudflare.com
 DOMAIN,platform.dash.cloudflare.com
+DOMAIN-KEYWORD,cloudflare
 DOMAIN,challenges.cloudflare.com
 DOMAIN-SUFFIX,getafreenode.com
 DOMAIN-SUFFIX,cloudflare.com
