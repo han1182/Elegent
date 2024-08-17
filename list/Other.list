@@ -1,1 +1,10 @@
+# Pixiv
+DOMAIN-KEYWORD,pixiv
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pximg.net
+DOMAIN-SUFFIX,fanbox.cc
 
+# wnacg
+DOMAIN-KEYWORD,wnacg
+DOMAIN-SUFFIX,wnacg.com
+DOMAIN,v1.wzip.date
