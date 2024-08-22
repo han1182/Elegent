@@ -7,6 +7,10 @@ DOMAIN-SUFFIX,quick-edit-cny.pages.dev
 DOMAIN,quick-edit-cny.pages.dev
 DOMAIN-SUFFIX,cloudflare.com
 
+#个人域名，做更新订阅用
+DOMAIN-SUFFIX,vless-bart.sbs
+DOMAIN-KEYWORD,vless-bart
+
 #wnacg
 DOMAIN,v1.wzip.download
 DOMAIN,v1.wzip.date
