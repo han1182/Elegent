@@ -1,3 +1,7 @@
+# Minecraft
+DOMAIN-SUFFIX,modrinth.com
+DOMAIN,api.modrinth.com
+
 # CloudFlare
 DOMAIN,dash.cloudflare.com
 DOMAIN,platform.dash.cloudflare.com
