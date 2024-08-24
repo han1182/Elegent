@@ -20,3 +20,7 @@ DOMAIN,zh.singlelogin.rs
 DOMAIN,zh.z-library.rs
 DOMAIN,z-library.rs
 DOMAIN-KEYWORD,z-library
+
+#FIB
+DOMAIN,fbi.gov
+DOMAIN-SUFFIX,fbi.gov
