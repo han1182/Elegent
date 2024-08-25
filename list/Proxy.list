@@ -1,6 +1,7 @@
 # 代理列表
 
 # MyList && Other
+DOMAIN-keyword,copilot
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
