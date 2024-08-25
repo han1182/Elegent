@@ -16,11 +16,13 @@ DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-KEYWORD,wnacg
 DOMAIN-SUFFIX,wnacg.com
 
-# discord
-DOMAIN-KEYWORD,discord
-DOMAIN-KEYWORD,discordapp
+# Discord
+DOMAIN-SUFFIX,discord.co
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
 
 #Z-Library
 DOMAIN,singlelogin.rs
