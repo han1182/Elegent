@@ -21,6 +21,8 @@ DOMAIN-KEYWORD,wnacg
 DOMAIN-SUFFIX,wnacg.com
 DOMAIN,v1.wzip.download
 DOMAIN,v1.wzip.date
+DOMAIN,v2.wzip.download
+DOMAIN,v2.wzip.date
 
 # Discord
 DOMAIN-SUFFIX,discord.co
