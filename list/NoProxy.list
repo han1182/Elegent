@@ -16,10 +16,6 @@ DOMAIN,integration.vless-bart.sbs
 DOMAIN-SUFFIX,vless-bart.sbs
 DOMAIN-KEYWORD,vless-bart
 
-#wnacg
-DOMAIN,v1.wzip.download
-DOMAIN,v1.wzip.date
-
 #
 DOMAIN-SUFFIX,getafreenode.com
 DOMAIN-SUFFIX,gytmh.com
