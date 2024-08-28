@@ -130,7 +130,7 @@ IP-CIDR,198.183.17.0/24,no-resolve
 IP-CIDR,205.180.175.0/24,no-resolve
 
 #
-PROCESS-NAME,Plain Craft Launcher 2.exe
+PROCESS-NAME,Plain Craft Launcher 2
 DOMAIN,launchermeta.mojang.com
 DOMAIN,api.curseforge.com
 DOMAIN-SUFFIX,getafreenode.com
