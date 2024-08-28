@@ -1,1 +1,0 @@
-自用CloudFlare规则信息，改善部分网站对CloudFlare拒绝访问的情况
