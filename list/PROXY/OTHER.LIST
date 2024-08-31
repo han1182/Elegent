@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
 
 #Z-Library
+DOMAIN,dlz1.fcdn.sk
 DOMAIN,singlelogin.rs
 DOMAIN,zh.singlelogin.rs
 DOMAIN,zh.z-library.rs
