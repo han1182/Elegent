@@ -136,6 +136,7 @@ IP-CIDR,205.180.175.0/24,no-resolve
 
 #
 DOMAIN,launchermeta.mojang.com
+DOMAIN,media.forgecdn.net
 DOMAIN,api.curseforge.com
 DOMAIN-SUFFIX,getafreenode.com
 DOMAIN-SUFFIX,gytmh.com
