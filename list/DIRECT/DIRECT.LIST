@@ -88,15 +88,6 @@ DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
 
-# CloudFlare
-DOMAIN,dash.cloudflare.com
-DOMAIN,platform.dash.cloudflare.com
-DOMAIN-KEYWORD,cloudflare
-DOMAIN,challenges.cloudflare.com
-DOMAIN-SUFFIX,quick-edit-cny.pages.dev
-DOMAIN,quick-edit-cny.pages.dev
-DOMAIN-SUFFIX,cloudflare.com
-
 #个人域名，做更新订阅用
 DOMAIN,integration.vless-bart.sbs
 DOMAIN-SUFFIX,vless-bart.sbs
