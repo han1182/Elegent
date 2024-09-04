@@ -88,11 +88,6 @@ DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
 
-#个人域名，做更新订阅用
-DOMAIN,integration.vless-bart.sbs
-DOMAIN-SUFFIX,vless-bart.sbs
-DOMAIN-KEYWORD,vless-bart
-
 # Apple
 # 一般国内Apple肯定正常,不需要开代理
 DOMAIN,apple.comscoreresearch.com
