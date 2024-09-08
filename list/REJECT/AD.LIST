@@ -1,3 +1,4 @@
 DOMAIN,l.labsda.com
 DOMAIN,ck.juicyads.com
-DOMAIN,www.wnacg.com/game
+DOMAIN-SUFFIX,||wnacg.com/game/*
+DOMAIN,||www.wnacg.com/game/*
