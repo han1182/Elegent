@@ -43,6 +43,7 @@ DOMAIN,singlelogin.rs
 DOMAIN,zh.singlelogin.rs
 DOMAIN,zh.z-library.rs
 DOMAIN,z-library.rs
+DOMAIN,s3proxy.cdn-zlib.se
 DOMAIN-KEYWORD,z-library
 
 #FIB
