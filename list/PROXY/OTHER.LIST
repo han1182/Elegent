@@ -29,6 +29,9 @@ DOMAIN,v2.wzip.date
 DOMAIN-SUFFIX,wzip.download
 DOMAIN-SUFFIX,wzip.date
 
+DOMAIN-SUFFIX,itsacg.com
+DOMAIN,img1.itsacg.com
+
 # Discord
 DOMAIN-SUFFIX,discord.co
 DOMAIN-SUFFIX,discord.com
