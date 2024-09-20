@@ -408,6 +408,8 @@ DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-KEYWORD,ttvnw
 
 # Twitter
+DOMAIN-SUFFIX,x.com
+DOMAIN,x.com
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
